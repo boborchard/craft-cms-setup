@@ -5,6 +5,12 @@
 # Author: Bob Orchard
 # Website: http://boborchard.com
 
+# This script assumes the following:
+# - You're running Mac OSX El Capitan or newer
+# - You have VirtualBox and Vagrant Installed already
+# - You use Atom for code editing
+# - You want to try out Craft CMS but don't want to use MAMP or a home-grown solution
+
 # THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Ask for the administrator password upfront
